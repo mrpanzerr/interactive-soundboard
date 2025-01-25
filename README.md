@@ -24,8 +24,8 @@ This project showcases an innovative soundboard application built using **TouchD
 
 ## Installation
 
-2. Install TouchDesigner (if not already installed): Download TouchDesigner
-3. Open the project file in TouchDesigner: Navigate to the project directory and open the .toe file in TouchDesigner.
+1. Install TouchDesigner (if not already installed): Download TouchDesigner
+2. Open the project file in TouchDesigner: Navigate to the project directory and open the .toe file in TouchDesigner.
 
 ## Usage
 
