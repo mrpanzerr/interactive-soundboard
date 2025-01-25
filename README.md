@@ -37,6 +37,4 @@ This project showcases an innovative soundboard application built using **TouchD
    - Fist-closing gestures will trigger audio and video playback.
 3. **Enjoy the real-time interaction** with synchronized media playback.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Please ensure any contributions adhere to the project's coding style and documentation practices.
+You can download the large file from [this link](https://drive.google.com/drive/folders/1tbNCpNcjJQFZIJIzyvuLjN947ZWLoBsO?usp=drive_link).
