@@ -24,9 +24,6 @@ This project showcases an innovative soundboard application built using **TouchD
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/interactive-soundboard.git
 2. Install TouchDesigner (if not already installed): Download TouchDesigner
 3. Open the project file in TouchDesigner: Navigate to the project directory and open the .toe file in TouchDesigner.
 
